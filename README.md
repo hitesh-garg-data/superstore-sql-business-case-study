@@ -120,7 +120,7 @@ Advanced ranking analysis using:
 
 Used to identify top-performing products across regions.
 
-![Window Function Ranking](screenshots/Window_functions_products_ranking_by_region.png)
+![Window Function Ranking](screenshots/Window_functions_products_ranking _by_region.png)
 
 ---
 
